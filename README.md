@@ -7,4 +7,8 @@ Also checkout my Treehouse profile [here](https://teamtreehouse.com/dannyliu).
 
 Project: Bootstrap Portfolio of my work
 
+
+Checkout my Treehouse profile https://teamtreehouse.com/dannyliu
+=======
 ![untitled design 30](https://cloud.githubusercontent.com/assets/16230862/18523283/9568f19a-7a81-11e6-85d3-1d39ea573482.png)
+
